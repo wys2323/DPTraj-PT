@@ -895,9 +895,9 @@ if __name__ == '__main__':
                 number_Tra = 0
                 string = str(para.cellW) + '_' + str(para.numtimeInterval)
                 output_t = open(
-                    'data/output/syn/' + dataset + '_' + string + '_' + str(budget) + '_' + str(run) + '_tra.txt', 'w')
+                    'data/output/' + dataset + '_' + string + '_' + str(budget) + '_' + str(run) + '_tra.txt', 'w')
                 output_l = open(
-                    'data/output/syn/' + dataset + '_' + string + '_' + str(budget) + '_' + str(run) + '_loc.txt', 'w')
+                    'data/output/' + dataset + '_' + string + '_' + str(budget) + '_' + str(run) + '_loc.txt', 'w')
                 program()
                 output_t.close()
                 output_l.close()
