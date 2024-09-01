@@ -9,7 +9,7 @@
     - cellStay.txt: Public region travel-time for each cell.
     - sample.txt: 5000 trajectories.
 
-3. Generated synthetic trajectories are stored in the file directory  './data/output/syn'.
+3. Generated synthetic trajectories are stored in the file directory  './data/output/'.
 
 4. Run
      run preprocess.py
