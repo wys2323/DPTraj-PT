@@ -10,3 +10,7 @@
     - sample.txt: 5000 trajectories.
 
 3. Generated synthetic trajectories are stored in the file directory  './data/output/syn'.
+
+4. Run
+     run preprocess.py
+     run main.py
