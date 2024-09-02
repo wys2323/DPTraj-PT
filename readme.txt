@@ -12,5 +12,4 @@
 3. Generated synthetic trajectories are stored in the file directory  './data/output/'.
 
 4. Run
-     run preprocess.py
-     run main.py
+      run main.py
